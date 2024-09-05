@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Tony Xiao"
+  text: "a students nightmare portfolio"
+  tagline: "thanks to 6.1040 :D"
   actions:
     - theme: brand
       text: Template Repository
