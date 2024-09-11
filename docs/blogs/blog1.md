@@ -18,5 +18,3 @@ _word_
 2. fun dog
 
 Check out this dog [here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
-
-![Hazel weee](/Users/tony/Desktop/6.104/portfoliio-tony/assets/images/sample-site.png)
