@@ -9,9 +9,10 @@ layout: doc
 
 Messaging and Verifying have been fully implemented. RESTful routes for Discussing is also in routes.ts. 
 
-[Deployed](backend-two-hazel-80.vercel.app)
+[Deployed](https://backend-two-hazel-80.vercel.app/)
 
 [Github](https://github.com/tonyx1107/backend.git)
+
 ## Abstract Data Models
 
 ### Concept 1: Authenticating
